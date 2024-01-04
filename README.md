@@ -1,4 +1,4 @@
 # demo
 This is my second repo
 <br>
-Author - Muhammad Daniyal
+Author - Muhammad Daniyal & Huraira Shahid
